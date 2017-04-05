@@ -15,9 +15,8 @@ if the expected output is `c =[[1,2,3],[4,5,6]]`, then the solution is `c = [a,b
 
 `with open(filename,'w') as f:`
 
-   `for item in lists:`
-   
-     `f.write('%s\n' % ietm)`
+`for item in lists:`   
+`f.write('%s\n' % ietm)`
  
  
 **creating dataframe**
